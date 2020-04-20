@@ -46,5 +46,12 @@ lista desordenada
     ,,sd,scsc,sdc sdc,scs
 ]
 
+# TABLAS
+| nombre | apellido | documento |
+| ------ | -------- | --------- |  
+| Luis | Gomez | 1111111 |
+| Daniel | Donis | 2222222|
+
+
 
 
