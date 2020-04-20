@@ -59,6 +59,22 @@ lista desordenada
 
 > cita 3
 
+# LINEAS DIVISORAS
+ texto dividido
+
+ ---
+ otro texto dividido
+
+ ---
+
+ # SALTOS DE LINEA
+
+ saltos de linea.
+
+ salto de linea
+
+ salto de linea
+
 
 
 
